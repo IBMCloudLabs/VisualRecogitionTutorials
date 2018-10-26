@@ -2,8 +2,8 @@
 
 ## CoreML + Watson Visual Recognition Tutorial: 
 
-(i) https://watson-developer-cloud.github.io/watson-vision-coreml-code-pattern/
-(ii) https://github.com/bourdakos1/visual-recognition-with-coreml
+* https://watson-developer-cloud.github.io/watson-vision-coreml-code-pattern/
+* https://github.com/bourdakos1/visual-recognition-with-coreml
 
 
 ## Watson Studio Drone Images Custom Model Tutorial: 
